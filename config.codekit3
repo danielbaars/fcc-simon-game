@@ -58,6 +58,17 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/screenshot.png": {
+		"ft": 32768,
+		"iS": 13460,
+		"oA": 0,
+		"oAP": "\/screenshot.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/simon-game-bg.ai": {
 		"ft": 8192,
 		"oA": 2,
