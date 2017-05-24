@@ -17,33 +17,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/date.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/date-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/index-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/index-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/index-v2.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/index-v2-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -67,32 +40,23 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/math.min.js": {
-		"ft": 64,
-		"mi": 0,
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/math.min-min.js",
+		"oAP": "\/README.html",
 		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/moment-timer.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/moment-timer-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/moment.min.js": {
-		"ft": 64,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/moment.min-min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/simon-game-bg.ai": {
 		"ft": 8192,
@@ -186,7 +150,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 515489351,
-	"displayValue": "fcc-simon",
+	"displayValue": "fcc-simon-game",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-krieger"
 	},
